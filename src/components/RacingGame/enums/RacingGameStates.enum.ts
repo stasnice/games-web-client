@@ -1,0 +1,9 @@
+enum ERacingGameStates {
+  BET = 'BET',
+  PROCESSING_BETS = 'PROCESSING_BETS',
+  START_IN_PROGRESS = 'START_IN_PROGRESS',
+  RESULT = 'RESULT',
+  GAME_IN_PROGRESS = 'GAME_IN_PROGRESS',
+}
+
+export default ERacingGameStates;
