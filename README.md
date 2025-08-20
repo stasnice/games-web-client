@@ -1,4 +1,4 @@
-# race-sdk-web (race-sdk-web)
+# game-service-web
 
 race game
 
